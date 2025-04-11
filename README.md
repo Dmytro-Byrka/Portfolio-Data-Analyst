@@ -1,2 +1,1 @@
-# Portfolio-SQL
-SQL exercises and pet-projects
+Hello and thanks for interest. This repo contains examples of SQL code I've written for different coding exercises and pet-projects.

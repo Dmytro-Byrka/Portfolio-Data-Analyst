@@ -1,6 +1,6 @@
-# Dmytro Byrka's SQL & Visualization Portfolio
-Hello and thanks for interest. This repository contains examples of SQL code I have written for different SQL challenges, feel free to check out. 
-**SQL files include challenge conditions and my solution.**
+# Dmytro Byrka's Data Analysis Portfolio
+Hello and thanks for interest. This repository contains examples of SQL code I have written for different SQL challenges, some visualizations and jupyter notebooks with python code, feel free to check out. 
+**SQL files include task conditions and my solution.**
 Below a highlighted project, including data visualizations I created using Tableau.
 
 **Revenue Visualization on Consumer Behavior dataset** **-** [**Tableau**](https://public.tableau.com/views/RevenueAnalysis_17448916137280/Edition1_0?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 

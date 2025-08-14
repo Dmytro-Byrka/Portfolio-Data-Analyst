@@ -1,4 +1,4 @@
-# Dmytro Byrka's Data Analysis Portfolio
+# SQL queries and Visualizations
 Hello and thanks for interest. This repository contains examples of SQL code I have written for different SQL challenges and some visualizations, feel free to check out. 
 **SQL files include task conditions and my solution.**
 
